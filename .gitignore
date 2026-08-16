@@ -1,0 +1,22 @@
+target/
+dependency-reduced-pom.xml
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Spreadsheets & Data Files
+*.xlsx
+*.xlsm
+*.xls
+*.xlsb
+*.csv
+
+# Build & generated binary artifacts
+*.jar
+*.war
+*.ear
+*.pdf
+*.dot
+temp_report.md
+schema-report.json
